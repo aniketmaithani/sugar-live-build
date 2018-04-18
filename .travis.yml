@@ -6,5 +6,4 @@ git:
 sudo: required
   
 script:
- - ./build |  tee build.log
-	
+ - ./build |  tee build.log	
