@@ -1,4 +1,5 @@
 # Sugar Live Build
+[![Build Status](https://travis-ci.org/aniketmaithani/sugar-live-build.svg?branch=master)](https://travis-ci.org/aniketmaithani/sugar-live-build)
 ## Introduction
 
 Welcome to Sugar Live Build! This makes a complete bootable image
